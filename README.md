@@ -1,3 +1,5 @@
+> COMMENT: inconsistent, using two languages ​​in readme file
+
 # Data_Analysis
 source codes for data analysis projects
 
